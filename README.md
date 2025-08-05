@@ -1,3 +1,5 @@
+![Email Header Analysis](./email_header_analysis.png)
+
 Objective:
 
 Analyze a phishing email sample (job scam email) to identify phishing indicators such as fake sender domains, urgent/scam language, suspicious links, and header mismatches using tools like MXToolbox Email Header Analyzer.
